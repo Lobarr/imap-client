@@ -1,0 +1,22 @@
+{
+  "name": "imap-cient",
+  "version": "1.0.0",
+  "description": "CCP email client ",
+  "main": "index.js",
+  "author": "Jesuloba Egunjobi",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "dotenv": "^5.0.1",
+    "email-addresses": "^3.0.1",
+    "email-validator": "^2.0.3",
+    "express": "^4.16.3",
+    "helmet": "^3.12.0",
+    "imap": "^0.8.19",
+    "imap-simple": "^4.0.0",
+    "jsonwebtoken": "^8.2.1",
+    "morgan": "^1.9.0"
+  }
+}
