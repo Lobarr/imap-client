@@ -17,6 +17,6 @@
     "imap": "^0.8.19",
     "imap-simple": "^4.0.0",
     "jsonwebtoken": "^8.2.1",
-    "morgan": "^1.9.0"
+    "morgan": "^1.9.1"
   }
 }
